@@ -1,4 +1,4 @@
-##Graphic Painting and Design Program
+## Graphic Painting and Design Program
 
 A full-featured Python desktop application for drawing, painting, and graphic design — built with Tkinter and Pillow. This app includes brushes, shapes, text tools, image manipulation, and a file manager for saving and exporting your creations.
 
@@ -22,8 +22,4 @@ A full-featured Python desktop application for drawing, painting, and graphic de
 - Python 3
 - Tkinter (for GUI)
 - Pillow (PIL) – for image handling
-
----
-
-## Project Structure
 
